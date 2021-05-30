@@ -1,0 +1,9 @@
+export const deleteAppointmentUrl = '/appoinments/';
+export const addUserDataUrl = '/userData.json';
+export const fetchUserDataUrl = '/userData.json';
+export const updateUserDataUrl = '/';
+export const createAppointmentsUrl = '/appoinments.json?key=';
+export const fetchAppointmentsUrl = '/appoinments.json';
+export const fetchServicesUrl = '/fetchServicesUrl.json';
+export const signInUrl = '';
+export const signUpUrl = '';
